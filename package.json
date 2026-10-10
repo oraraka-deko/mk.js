@@ -1,0 +1,11 @@
+{
+  "name": "street-fighter-2-multiplayer",
+  "version": "1.0.0",
+  "description": "Street Fighter 2 Online Multiplayer with WebRTC DataChannels & Android Touch Controls",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "dependencies": {},
+  "license": "MIT"
+}
+
